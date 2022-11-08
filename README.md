@@ -26,6 +26,8 @@
 
 Apaixonado por tecnologia, musica e artes!!!
 
+![Snake gif](https://github.com/fabiorodolfo84/fabiorodolfo84/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
